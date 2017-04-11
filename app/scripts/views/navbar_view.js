@@ -5,7 +5,6 @@ export default React.createClass({
   render: function (){
     return (
       <nav>
-
     The Loki Files
     <br/>
     <Link dest= "/blog" name='Blog' />

@@ -1,6 +1,7 @@
 import React from 'react'
 import NavbarView from './navbar_view.js'
-import Post from './post_view.js';
+import Post from './post.js';
+import Bloginput from './bloginput_view.js'
 
 export default React.createClass({
 
